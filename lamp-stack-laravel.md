@@ -85,6 +85,11 @@ Also add these lines after the **DocumentRoot** line
 </Directory>
 ```
 
+Enable mod rewrite
+
+```
+sudo a2enmod rewrite
+```
 
 ###### Step 4 : External Commands
 
